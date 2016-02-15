@@ -1,2 +1,3 @@
-# research-project-ideas
-Project ideas and discussion for research using iDigBio data and resources
+# Research Project Ideas (RPIs)
+
+This repository is for discussion of project ideas for research using iDigBio data and resources. Please use the issue tracker to add new ideas. All discussions are public.
